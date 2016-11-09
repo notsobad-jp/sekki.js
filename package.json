@@ -1,0 +1,22 @@
+{
+  "name": "sekki",
+  "version": "1.0.2",
+  "description": "Sekki.js is a mini js library for displaying traditional Japanese season names, 24 sekki 72 kou.",
+  "main": "sekki.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notsobad-jp/sekki.js.git"
+  },
+  "keywords": [
+    "sekki"
+  ],
+  "author": "NOT SO BAD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notsobad-jp/sekki.js/issues"
+  },
+  "homepage": "https://github.com/notsobad-jp/sekki.js#readme"
+}
