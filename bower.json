@@ -2,6 +2,6 @@
   "name": "sekki",
   "version": "1.0.0",
   "main": "sekki.js",
-  "ignore": "package.json",
+  "ignore": "",
   "dependencies": ""
 }
